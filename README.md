@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://tse1.mm.bing.net/th?id=OIP.i9s2sxq2wbWnsvvU7QrcJgHaB2&pid=Api">
+</div>
 <h1 align="center">Hi there 👋, I'm Cesar </h1>
 <h3 align="center">A passionate developer from Spain</h3>
 <div align="left">
@@ -9,8 +11,12 @@
 - 🌱I’m currently learning more about APIs Rest with SpringBoot and Django
 
 - ⚡What I like to do: **I like so much make music...and coding of course**
+
+
 </div>
-<div align="right"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="450" height="450"> </div>
+<div align="right">
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" height="250">
+ </div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
