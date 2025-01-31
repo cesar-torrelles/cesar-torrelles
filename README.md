@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tse1.mm.bing.net/th?id=OIP.i9s2sxq2wbWnsvvU7QrcJgHaB2&pid=Api">
+<img src="https://tse2.mm.bing.net/th?id=OIP.ZbV_6bYYRF-X3n0OO-IewQHaC9&pid=Api">
 </div>
 <h1 align="center">Hi there 👋, I'm Cesar </h1>
 <h3 align="center">A passionate developer from Spain</h3>
@@ -15,7 +15,7 @@
 
 </div>
 <div align="right">
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" height="250">
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="150" height="150">
  </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -50,11 +50,7 @@
   
 </p>
 
-<div align="center">
-<img src="https://i.imgur.com/l7aWcEX.png">
 
-
-</div>
 
 
 
