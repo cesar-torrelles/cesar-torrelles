@@ -14,9 +14,7 @@
 
 
 </div>
-<div align="right">
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="150" height="150">
- </div>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -47,6 +45,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cesar-torrelles&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cesar-torrelles&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<div align="center">
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" height="350">
+ </div>
   
 </p>
 
